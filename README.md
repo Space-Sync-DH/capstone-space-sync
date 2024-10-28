@@ -65,7 +65,7 @@ Desarrollar una plataforma de reservas educativa. 💻
 4. Pruebas de usabilidad.
 
 <<<<<<< HEAD
-### **3. Metodología** 📚
+### **4. Metodología** 📚
 
 **Metodología Utilizada:**  
 Ágil Kanban. 📊
@@ -77,13 +77,6 @@ Desarrollar una plataforma de reservas educativa. 💻
 4. Integración nube.
 5. Pruebas y ajustes.
 
-### **4. Desarrollo** 🚀
-
-**Etapas:**
-1. Planificación.
-2. Desarrollo frontend y backend.
-3. Integración nube.
-4. Pruebas.
 
 
 ### **5. Evidencias** 📂
