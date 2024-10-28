@@ -22,12 +22,11 @@ Desarrollo de software 👩‍💻
 Gestión de proyectos 📝
 Ingeniería informática 💻
 
-### Relevancia del Proyecto 🌟
+## Relevancia del Proyecto 🌟
 Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
 
-## **Contenidos Importantes** 📋
+### **Contenidos Importantes** 📋
 
-### **Relevancia del Proyecto** 🌟
 **Problema y Relevancia:**  
 Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
 
