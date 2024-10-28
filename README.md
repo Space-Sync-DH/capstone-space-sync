@@ -1,51 +1,70 @@
-🌌 Space Sync: Proyecto de Gestión de Reservas 🚀
-Nombre del Proyecto: Space Sync
+# 🌌 Space Sync: Proyecto de Gestión de Reservas 🚀
 
-Área(s) de Desempeño(s):
+## **Nombre del Proyecto**
+**Space Sync**
 
-Desarrollo de software 👩‍💻
-Gestión de proyectos 📝
-Ingeniería informática 💻
-Competencias:
+## **Área(s) de Desempeño(s)**
+- **Desarrollo de software** 👩‍💻
+- **Gestión de proyectos** 📝
+- **Ingeniería informática** 💻
 
-Frontend y backend
-Integración de sistemas
-Metodologías ágiles (Kanban)
-Bases de datos
-Servicios en la nube
-Contenidos del Informe Final 📋
-1. Relevancia del Proyecto 🌟
-Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
+## **Competencias**
+- **Frontend y backend**
+- **Integración de sistemas**
+- **Metodologías ágiles (Kanban)**
+- **Bases de datos**
+- **Servicios en la nube**
 
-Ubicación: Instituciones educativas en Chile. 🇨🇱
+## **Contenidos del Informe Final** 📋
 
-Impacto: Afecta a estudiantes y administradores. 🧑‍🏫👩‍🎓
+### **1. Relevancia del Proyecto** 🌟
+**Problema y Relevancia:**  
+Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
 
-Aporte de Valor: Sistema intuitivo y eficiente para reservas. ⏳💡
+**Ubicación:**  
+Instituciones educativas en Chile. 🇨🇱
 
-2. Objetivos 🎯
-General: Desarrollar una plataforma de reservas educativa. 💻
+**Impacto:**  
+Afecta a estudiantes y administradores. 🧑‍🏫👩‍🎓
 
-Específicos:
+**Aporte de Valor:**  
+Sistema intuitivo y eficiente para reservas. ⏳💡
 
-Diseño frontend.
-Desarrollo backend.
-Integración en la nube.
-Pruebas de usabilidad.
-3. Metodología 📚
-Metodología Utilizada: Ágil Kanban. 📊
+### **2. Objetivos** 🎯
 
-Fases:
+**Objetivo General:**  
+Desarrollar una plataforma de reservas educativa. 💻
 
-Recopilación de información.
-Desarrollo frontend.
-Desarrollo backend.
-Integración nube.
-Pruebas y ajustes.
-4. Desarrollo 🚀
-Etapas:
+**Objetivos Específicos:**
+1. Diseño frontend.
+2. Desarrollo backend.
+3. Integración en la nube.
+4. Pruebas de usabilidad.
 
-Planificación.
-Desarrollo frontend y backend.
-Integración nube.
-Pruebas.
+### **3. Metodología** 📚
+
+**Metodología Utilizada:**  
+Ágil Kanban. 📊
+
+**Fases:**
+1. Recopilación de información.
+2. Desarrollo frontend.
+3. Desarrollo backend.
+4. Integración nube.
+5. Pruebas y ajustes.
+
+### **4. Desarrollo** 🚀
+
+**Etapas:**
+1. Planificación.
+2. Desarrollo frontend y backend.
+3. Integración nube.
+4. Pruebas.
+
+
+### **5. Evidencias** 📂
+Aquí se pondrá la documentación sobre avances de este proyecto.
+
+### **6. Intereses y Proyecciones Profesionales** 🎓
+**Aporte:**  
+Mayor conocimiento en desarrollo full-stack y gestión de proyectos.
