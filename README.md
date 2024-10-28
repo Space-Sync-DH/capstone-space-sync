@@ -3,7 +3,8 @@
 
 ## **Nombre del Proyecto**
 ### **Space Sync**
-**Equipo: Johan Dahlbokum Novelli - Paula Cortés Narváez**
+**Equipo**: **Johan Dahlbokum Novelli** 
+            **Paula Cortés Narváez**
 
 ## **Área(s) de Desempeño(s)**
 - **Desarrollo de software** 👩‍💻
