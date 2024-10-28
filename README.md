@@ -1,5 +1,5 @@
 
-# 🌌 Space Sync: Proyecto de Gestión de Reservas 🚀
+# 🌌 Space Sync: Proyecto de Gestión de Reservas (Capstone) 🚀
 
 ## **Nombre del Proyecto**
 **Space Sync**
@@ -15,9 +15,6 @@
 - **Metodologías ágiles (Kanban)**
 - **Bases de datos**
 - **Servicios en la nube**
-
-🌌 **Space Sync: Proyecto de Gestión de Reservas 🚀
-Nombre del Proyecto: Space Sync**
 
 **Área(s) de Desempeño(s):**
 
@@ -37,18 +34,14 @@ Contenidos del Informe Final 📋
 1. Relevancia del Proyecto 🌟
 Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
 
-
 ## **Contenidos del Informe Final** 📋
 
 ### **1. Relevancia del Proyecto** 🌟
 **Problema y Relevancia:**  
 Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
 
-**Ubicación:**  
-Instituciones educativas en Chile. 🇨🇱
-
 **Impacto:**  
-Afecta a estudiantes y administradores. 🧑‍🏫👩‍🎓
+Administrativos, profesores, alumnos. 🧑‍🏫👩‍🎓
 
 **Aporte de Valor:**  
 Sistema intuitivo y eficiente para reservas. ⏳💡
@@ -64,7 +57,7 @@ Desarrollar una plataforma de reservas educativa. 💻
 3. Integración en la nube.
 4. Pruebas de usabilidad.
 
-<<<<<<< HEAD
+
 ### **3. Metodología** 📚
 
 **Metodología Utilizada:**  
@@ -92,9 +85,5 @@ Aquí se pondrá la documentación sobre avances de este proyecto.
 ### **6. Intereses y Proyecciones Profesionales** 🎓
 **Aporte:**  
 Mayor conocimiento en desarrollo full-stack y gestión de proyectos.
-=======
-Planificación.
-Desarrollo frontend y backend.
-Integración nube.
-Pruebas.
+
 
