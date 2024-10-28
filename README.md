@@ -22,39 +22,22 @@ Desarrollo de software 👩‍💻
 Gestión de proyectos 📝
 Ingeniería informática 💻
 
-1. Relevancia del Proyecto 🌟
-Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
+## Relevancia del Proyecto 🌟
+Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en edificios corporativos y educacionales. 🎓
 
-## **Contenidos Importantes** 📋
-
-### **1. Relevancia del Proyecto** 🌟
-**Problema y Relevancia:**  
-Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
+### **Contenidos Importantes** 📋
 
 **Impacto:**  
-Administrativos, profesores, alumnos. 🧑‍🏫👩‍🎓
+Administrativos, profesores, alumnos.
 
 **Aporte de Valor:**  
 Sistema intuitivo y eficiente para reservas. ⏳💡
 
-## **2. Objetivos** 🎯
+## **Objetivos** 🎯
 
 **Objetivo General:**  
-Desarrollar una plataforma de reservas educativa. 💻
+Desarrollar una plataforma de reservas de espacios administrativo. 💻
 
-**Objetivos Específicos:**
-1. Diseño frontend.
-2. Desarrollo backend.
-3. Integración en la nube.
-4. Pruebas de usabilidad.
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-### **4. Metodología** 📚
-=======
-
-## **3. Metodología** 📚
->>>>>>> 8f4c506f97f889c10264570360ec60d7009dcd99
 
 **Metodología Utilizada:**  
 Ágil Kanban. 📊
@@ -66,22 +49,11 @@ Desarrollar una plataforma de reservas educativa. 💻
 4. Integración nube.
 5. Pruebas y ajustes.
 
-<<<<<<< HEAD
-=======
-## **4. Desarrollo** 🚀
 
-**Etapas:**
-1. Planificación.
-2. Desarrollo frontend y backend.
-3. Integración nube.
-4. Pruebas.
->>>>>>> 8f4c506f97f889c10264570360ec60d7009dcd99
-
-
-## **5. Evidencias** 📂
+## **4. Evidencias** 📂
 Aquí se pondrá la documentación sobre avances de este proyecto.
 
-## **6. Intereses y Proyecciones Profesionales** 🎓
+## **5. Intereses y Proyecciones Profesionales** 🎓
 **Aporte:**  
 Mayor conocimiento en desarrollo full-stack y gestión de proyectos.
 
