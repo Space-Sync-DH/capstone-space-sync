@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌌 Space Sync: Proyecto de Gestión de Reservas 🚀
 
 ## **Nombre del Proyecto**
@@ -15,7 +15,7 @@
 - **Metodologías ágiles (Kanban)**
 - **Bases de datos**
 - **Servicios en la nube**
-=======
+
 🌌 **Space Sync: Proyecto de Gestión de Reservas 🚀
 Nombre del Proyecto: Space Sync**
 
@@ -36,7 +36,7 @@ Contenidos del Informe Final 📋
 
 1. Relevancia del Proyecto 🌟
 Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
->>>>>>> 685f1167196c89c59568ac657b3e3844dded94c6
+
 
 ## **Contenidos del Informe Final** 📋
 
@@ -97,4 +97,4 @@ Planificación.
 Desarrollo frontend y backend.
 Integración nube.
 Pruebas.
->>>>>>> 685f1167196c89c59568ac657b3e3844dded94c6
+
