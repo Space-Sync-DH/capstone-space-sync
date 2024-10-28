@@ -16,20 +16,11 @@
 - **Bases de datos**
 - **Servicios en la nube**
 
-**Área(s) de Desempeño(s):**
+## **Área(s) de Desempeño(s):**
 
 Desarrollo de software 👩‍💻
 Gestión de proyectos 📝
 Ingeniería informática 💻
-
-**Competencias:**
-
-Frontend y backend
-Integración de sistemas
-Metodologías ágiles (Kanban)
-Bases de datos
-Servicios en la nube
-Contenidos del Informe Final 📋
 
 1. Relevancia del Proyecto 🌟
 Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
@@ -46,7 +37,7 @@ Administrativos, profesores, alumnos. 🧑‍🏫👩‍🎓
 **Aporte de Valor:**  
 Sistema intuitivo y eficiente para reservas. ⏳💡
 
-### **2. Objetivos** 🎯
+## **2. Objetivos** 🎯
 
 **Objetivo General:**  
 Desarrollar una plataforma de reservas educativa. 💻
@@ -58,7 +49,7 @@ Desarrollar una plataforma de reservas educativa. 💻
 4. Pruebas de usabilidad.
 
 
-### **3. Metodología** 📚
+## **3. Metodología** 📚
 
 **Metodología Utilizada:**  
 Ágil Kanban. 📊
@@ -70,7 +61,7 @@ Desarrollar una plataforma de reservas educativa. 💻
 4. Integración nube.
 5. Pruebas y ajustes.
 
-### **4. Desarrollo** 🚀
+## **4. Desarrollo** 🚀
 
 **Etapas:**
 1. Planificación.
@@ -79,10 +70,10 @@ Desarrollar una plataforma de reservas educativa. 💻
 4. Pruebas.
 
 
-### **5. Evidencias** 📂
+## **5. Evidencias** 📂
 Aquí se pondrá la documentación sobre avances de este proyecto.
 
-### **6. Intereses y Proyecciones Profesionales** 🎓
+## **6. Intereses y Proyecciones Profesionales** 🎓
 **Aporte:**  
 Mayor conocimiento en desarrollo full-stack y gestión de proyectos.
 
