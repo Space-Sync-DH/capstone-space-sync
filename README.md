@@ -23,20 +23,17 @@ Gestión de proyectos 📝
 Ingeniería informática 💻
 
 ## Relevancia del Proyecto 🌟
-Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
+Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en edificios corporativos y educacionales. 🎓
 
 ### **Contenidos Importantes** 📋
 
-**Problema y Relevancia:**  
-Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
-
 **Impacto:**  
-Administrativos, profesores, alumnos. 🧑‍🏫👩‍🎓
+Administrativos, profesores, alumnos.
 
 **Aporte de Valor:**  
 Sistema intuitivo y eficiente para reservas. ⏳💡
 
-## **2. Objetivos** 🎯
+## **Objetivos** 🎯
 
 **Objetivo General:**  
 Desarrollar una plataforma de reservas de espacios administrativo. 💻
