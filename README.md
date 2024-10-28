@@ -2,7 +2,8 @@
 # 🌌 Space Sync: Proyecto de Gestión de Reservas (Capstone) 🚀
 
 ## **Nombre del Proyecto**
-**Space Sync**
+### **Space Sync**
+**Equipo: Johan Dahlbokum Novelli - Paula Cortés Narváez**
 
 ## **Área(s) de Desempeño(s)**
 - **Desarrollo de software** 👩‍💻
@@ -50,10 +51,10 @@ Desarrollar una plataforma de reservas de espacios administrativo. 💻
 5. Pruebas y ajustes.
 
 
-## **4. Evidencias** 📂
+## **Evidencias** 📂
 Aquí se pondrá la documentación sobre avances de este proyecto.
 
-## **5. Intereses y Proyecciones Profesionales** 🎓
+## **Intereses y Proyecciones Profesionales** 🎓
 **Aporte:**  
 Mayor conocimiento en desarrollo full-stack y gestión de proyectos.
 
