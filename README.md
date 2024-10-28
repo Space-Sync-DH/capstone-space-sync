@@ -34,7 +34,7 @@ Contenidos del Informe Final 📋
 1. Relevancia del Proyecto 🌟
 Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
 
-## **Contenidos del Informe Final** 📋
+## **Contenidos Importantes** 📋
 
 ### **1. Relevancia del Proyecto** 🌟
 **Problema y Relevancia:**  
