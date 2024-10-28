@@ -1,12 +1,13 @@
-🌌 Space Sync: Proyecto de Gestión de Reservas 🚀
-Nombre del Proyecto: Space Sync
+🌌 **Space Sync: Proyecto de Gestión de Reservas 🚀
+Nombre del Proyecto: Space Sync**
 
-Área(s) de Desempeño(s):
+**Área(s) de Desempeño(s):**
 
 Desarrollo de software 👩‍💻
 Gestión de proyectos 📝
 Ingeniería informática 💻
-Competencias:
+
+**Competencias:**
 
 Frontend y backend
 Integración de sistemas
@@ -14,6 +15,7 @@ Metodologías ágiles (Kanban)
 Bases de datos
 Servicios en la nube
 Contenidos del Informe Final 📋
+
 1. Relevancia del Proyecto 🌟
 Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
 
