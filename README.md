@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌌 Space Sync: Proyecto de Gestión de Reservas 🚀
 
 ## **Nombre del Proyecto**
@@ -14,6 +15,28 @@
 - **Metodologías ágiles (Kanban)**
 - **Bases de datos**
 - **Servicios en la nube**
+=======
+🌌 **Space Sync: Proyecto de Gestión de Reservas 🚀
+Nombre del Proyecto: Space Sync**
+
+**Área(s) de Desempeño(s):**
+
+Desarrollo de software 👩‍💻
+Gestión de proyectos 📝
+Ingeniería informática 💻
+
+**Competencias:**
+
+Frontend y backend
+Integración de sistemas
+Metodologías ágiles (Kanban)
+Bases de datos
+Servicios en la nube
+Contenidos del Informe Final 📋
+
+1. Relevancia del Proyecto 🌟
+Problema y Relevancia: Soluciona la ineficiencia en la gestión de reservas en instituciones educativas. 🎓
+>>>>>>> 685f1167196c89c59568ac657b3e3844dded94c6
 
 ## **Contenidos del Informe Final** 📋
 
@@ -41,6 +64,7 @@ Desarrollar una plataforma de reservas educativa. 💻
 3. Integración en la nube.
 4. Pruebas de usabilidad.
 
+<<<<<<< HEAD
 ### **3. Metodología** 📚
 
 **Metodología Utilizada:**  
@@ -68,3 +92,9 @@ Aquí se pondrá la documentación sobre avances de este proyecto.
 ### **6. Intereses y Proyecciones Profesionales** 🎓
 **Aporte:**  
 Mayor conocimiento en desarrollo full-stack y gestión de proyectos.
+=======
+Planificación.
+Desarrollo frontend y backend.
+Integración nube.
+Pruebas.
+>>>>>>> 685f1167196c89c59568ac657b3e3844dded94c6
