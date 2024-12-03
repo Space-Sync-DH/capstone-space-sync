@@ -52,7 +52,7 @@ Desarrollar una plataforma de reservas de espacios administrativo. 💻
 
 
 ## **Evidencias** 📂
-Aquí se pondrá la documentación sobre avances de este proyecto.
+En el siguiente link, se podrá encontrar toda la documentación: https://drive.google.com/drive/u/1/folders/1-SbDMEUPpSl0TPfMVNgEHbkPbNQHai5Y  
 
 ## **Intereses y Proyecciones Profesionales** 🎓
 **Aporte:**  
