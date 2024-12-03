@@ -2,7 +2,9 @@
 # 🌌 Space Sync: Proyecto de Gestión de Reservas (Capstone) 🚀
 
 ## **Nombre del Proyecto: Space Sync**
-**Equipo**: <p> ● **Johan Dahlbokum Novelli** <p> ● **Paula Cortés Narváez**
+**Equipo**:
+- **Johan Dahlbokum Novelli** 
+- **Paula Cortés Narváez**
 
 ## **Área(s) de Desempeño(s)**
 - **Desarrollo de software** 👩‍💻
