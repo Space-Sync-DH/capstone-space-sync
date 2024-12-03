@@ -16,7 +16,6 @@
 - **Integración de sistemas**
 - **Metodologías ágiles (Kanban)**
 - **Bases de datos**
-- **Servicios en la nube**
 
 ## **Área(s) de Desempeño(s):**
 
@@ -48,7 +47,6 @@ Desarrollar una plataforma de reservas de espacios administrativo. 💻
 1. Recopilación de información.
 2. Desarrollo frontend.
 3. Desarrollo backend.
-4. Integración nube.
 5. Pruebas y ajustes.
 
 
